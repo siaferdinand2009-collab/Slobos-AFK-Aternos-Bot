@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FanzyForPublic-Grpc.aternos.me",
+    "port": 41418,
     "version": "",
     "try-creative": false
   },
