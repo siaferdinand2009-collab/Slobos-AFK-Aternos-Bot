@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FanzyForPublic-Grpc.aternos.me",
-    "port": 41418,
+    "ip": "FanzyForPublic-midq.aternos.me",
+    "port": 51598,
     "version": "",
     "try-creative": false
   },
